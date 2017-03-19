@@ -1,0 +1,13 @@
+h1 {
+  color: green;
+  font-family: monospace;
+  font-weight: 600;
+  font-size: 45px;
+  text-align: center;
+  line-height: 60px;
+}
+
+img {
+  max-width: 100%;
+  max-height: 500px;
+}
