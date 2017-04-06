@@ -11,3 +11,13 @@ img {
   max-width: 100%;
   max-height: 500px;
 }
+
+
+.blue-background {
+  background-color: blue;
+  color: #fff;
+}
+
+.yellow-background {
+  background-color: yellow;
+}
